@@ -35,7 +35,7 @@ class MyApp(object):
 			time.sleep(1)
 
 	def init_variables(self):
-		self.nb_episode = [25, 12, 22, 13]
+		self.nb_episode = [25, 12, 22, 15]
 		self.logs_r = open('logs.txt', "r")
 		self.logs_a = open('logs.txt', "a")
 		#text = self.logs.readlines()[-1]

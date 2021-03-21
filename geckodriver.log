@@ -1763,3 +1763,62 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/QvRjmImzvgMHrTVf5cO
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript error: https://userload.co/embed/null, line 1: SyntaxError: expected expression, got '<'
 1615695041069	Marionette	INFO	Stopped listening on port 51092
+1615753783428	geckodriver	INFO	Listening on 127.0.0.1:63539
+1615753786565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\theoj\\AppData\\Local\\Temp\\rust_mozprofiletFQHFD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615753791685	Marionette	INFO	Listening on port 63547
+1615753791960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://attaque-des-titans-streaming.net/shingeki-no-kyojin-saison-4-episode-7-vostfr/ line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/shingeki-no-kyojin-saison-4-episode-7-vostfr/ line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/shingeki-no-kyojin-saison-4-episode-7-vostfr/ line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/shingeki-no-kyojin-saison-4-episode-7-vostfr/ line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://ninjastream.to/js/app.js?id=b1576052c403b8c6077c, line 2: TypeError: a.match(...) is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OMVbZZwdVyt_knrbNoV-EhCgfJTcRkVeoqiW1EXii0c.js line 1 > eval line 5524 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OMVbZZwdVyt_knrbNoV-EhCgfJTcRkVeoqiW1EXii0c.js line 1 > eval line 5524 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://userload.co/embed/null, line 1: SyntaxError: expected expression, got '<'
+1615753804224	Marionette	INFO	Stopped listening on port 63547
+1615754643977	geckodriver	INFO	Listening on 127.0.0.1:63707
+1615754647004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\theoj\\AppData\\Local\\Temp\\rust_mozprofilesN22YT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615754648336	Marionette	INFO	Listening on port 63715
+1615754648553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-8-vostfr/ line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-8-vostfr/ line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-8-vostfr/ line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-8-vostfr/ line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://ninjastream.to/js/app.js?id=b1576052c403b8c6077c, line 2: TypeError: a.match(...) is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OMVbZZwdVyt_knrbNoV-EhCgfJTcRkVeoqiW1EXii0c.js line 1 > eval line 6759 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OMVbZZwdVyt_knrbNoV-EhCgfJTcRkVeoqiW1EXii0c.js line 1 > eval line 6759 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://userload.co/embed/null, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://civadsoo.net/4/3791333, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://civadsoo.net/4/3791333, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://civadsoo.net/4/3791333, line 26: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://civadsoo.net/4/3791333, line 26: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615754666940	Marionette	INFO	Stopped listening on port 63715
+1616359918294	geckodriver	INFO	Listening on 127.0.0.1:61526
+1616359921342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\theoj\\AppData\\Local\\Temp\\rust_mozprofilefXxafm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616359933594	Marionette	INFO	Listening on port 61534
+1616359934152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-14-vostfr/ line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-14-vostfr/ line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-14-vostfr/ line 1 > injectedScript, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://attaque-des-titans-streaming.net/lattaque-des-titans-saison-4-episode-14-vostfr/ line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NJEDtVJu0bILRBOyjX-8KIDBSz0Xe71qonMLWJvxMh0.js line 1 > eval line 7337 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NJEDtVJu0bILRBOyjX-8KIDBSz0Xe71qonMLWJvxMh0.js line 1 > eval line 7337 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://userload.co/embed/null, line 1: SyntaxError: expected expression, got '<'
+1616359947916	Marionette	INFO	Stopped listening on port 61534
